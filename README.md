@@ -1,0 +1,2 @@
+# Sales Forecasting
+ This repository contains the code and models used for forecasting weekly retail sales using machine learning techniques. The project focuses on data preprocessing, feature engineering, and building predictive models such as Random Forest for sales prediction. It also includes exploratory data analysis (EDA), visualizations, and hyperparameter tuning. The dataset used includes various retail attributes like temperature, holiday status, fuel price, and markdowns.
